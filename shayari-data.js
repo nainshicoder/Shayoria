@@ -113,7 +113,7 @@ const shayariData = [
  category: "life",
  title: "Life Shayari",
  text: "Jo mila hai usmein khush raho,\nJo nahi mila uska gham na karo."
-}
+},
 /* ================= EXTRA 100 SHAYARI ================= */
 
 /* ===== FRIENDS (25) ===== */
